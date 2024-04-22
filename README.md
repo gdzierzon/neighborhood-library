@@ -8,6 +8,8 @@ There are currently 20 books available for customers to choose from. You can use
 
 ## Screenshots
 
+![Demo Page](images/demo.png)
+
 ![Home Page](images/home.jpg "Home Page")
 
 ![Available Books](images/available.jpg "Available books")
